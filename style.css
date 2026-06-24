@@ -1,0 +1,36 @@
+body { 
+    background-color: #d74cc7
+}
+
+.head {
+    padding-top: 2px;
+    text-align: center
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.layout {
+    display: contents; 
+}
+.options {
+    width: 30%;
+    height: 300px;
+    object-fit: cover;
+}
+.text {
+    background-color: #c24293;
+    color: #e9b1d4;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 5px;
+}
+p {
+    font-size: 25px;
+    margin: 5px;
+}
